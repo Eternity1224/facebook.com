@@ -6,6 +6,6 @@
     <title>Page pour Ordinateurs</title>
 </head>
 <body>
-    <h1>Bienvenue sur la page pour ordinateurs !</h1>
+    <h1>Bienvenue sur la page pour les appareils electroniques!</h1>
 </body>
 </html>
